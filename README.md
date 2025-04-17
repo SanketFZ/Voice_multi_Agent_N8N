@@ -1,2 +1,2 @@
-[![Watch the video](/Screenshots/Screenshot 2025-04-07 152251.png
+[![Watch the video](https://startupsmagazine.co.uk/sites/default/files/2023-06/AdobeStock_419893758ed.png
 )](Demo.mp4)
