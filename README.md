@@ -1,1 +1,1 @@
-[![Watch the video]("/Screenshorts/")]("/Demo.mp4")
+[![Watch the video]("/Screenshorts/")](Demo.mp4)
